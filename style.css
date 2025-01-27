@@ -1,11 +1,12 @@
-body {
+سbody {
   width: 100vw;
   height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
   background: #000;
-  color:#00BFFF
+  color:#00BFFF;
+  font-weight:300;
 }
 
 .main{
@@ -22,7 +23,7 @@ body {
 }
 input {
   border: none;
-  border : 1px #757575 solid;
+  border : 1px #222 solid;
   height: 45px;
   width:350px;
   padding: 7px;
@@ -42,10 +43,10 @@ outline: none;
 }
 
 .inpudiv button {
-  background:#212121;
+  background:#111;
   padding: 7px;
   border: none;
-border : 1px #757575 solid;
+border : 1px #222 solid;
 height: 45px;
 border-radius:10px;
 font-size: 18px; 
@@ -66,9 +67,9 @@ gap : 10px
   height: 45px;
   border-radius: 10px;
   font-size: 18px;
-  background:#212121;
+  background:#111;
   color:#00BFFF;
-  border: #757575 1px solid;
+  border: #222 1px solid;
   display: flex;
 align-items: center
 }
