@@ -26,32 +26,13 @@
   "translate": "هذا"
 } ,{
   "word": "pintâ",
-  "translate": "أبنت"
+  "translate": " (بنت)أبنت"
 },
-{
-  "word": "ântâ kiâlp",
-  "translate": "أنت كلب"
-},
-{
-  "word": "ântâ pintâ kiâlp" ,
-  "translate": "أنت بنت كلب"
-},{
-  "word": "pintâ kiâlp",
-  "translate": "بت كلب"
-}
+
 ,{
   "word": "âbn",
   "translate": "ابن"
 },
-{
-  "word": "âbn kiâlp",
-  "translate": "ابن كلب"
-} ,
-{
-  "word": "ântâ âbn kiâlp",
-  "translate": "ابن كلب"
-}
-,
 {
   "word": "dâdâ",
   "translate": "أي حاجه مثل ( أبوي بابا باب كوره أمي أبي ماما لعبه ........... )"
