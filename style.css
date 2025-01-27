@@ -4,7 +4,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #616161;
+  background: #000;
+  color:#00BFFF
 }
 
 .main{
@@ -16,7 +17,7 @@ body {
   flex-direction:column;
   justify-content: space-around;
   gap:30px;
-  color:#e1e1e1;
+
   
 }
 input {
@@ -28,7 +29,7 @@ input {
   font-size:18px;
   border-radius:10px;
   background:#212121;
-color:#e1e1e1;
+
 outline: none;
 }
 
@@ -42,7 +43,6 @@ outline: none;
 
 .inpudiv button {
   background:#212121;
-color:#e1e1e1;
   padding: 7px;
   border: none;
 border : 1px #757575 solid;
@@ -66,13 +66,13 @@ gap : 10px
   border-radius: 10px;
   font-size: 18px;
   background:#212121;
-  color:#e1e1e1;
+  
   border: #757575 1px solid;
   display: flex;
 align-items: center
 }
 h1 {
-color:#e1e1e1;
+
 font-size: 40px
 
 }
