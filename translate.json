@@ -1,40 +1,40 @@
 {"translate":[
   {
-    "word" : "ântâ",
+    "word" : "ântâ[انت]",
     "translate" : "أنت"
   },
   {
-  "word": "éiâhé",
+  "word": "éiâhé (إِياه)   ",
   "translate": "قطه"
   },
   {
-  "word": "lâa",
-  "translate": "(لا) لع"
+  "word": "lâa(لع)",
+  "translate": "(لاَ)لع"
 },{
-  "word": "héâsh",
+  "word": "héâsh(هيش)",
   "translate": "دجاج/ فروج(مش اما يتاكل)"
 },{
-  "word": "kiâlp",
+  "word": "kiâlp(كَلب)",
   "translate": "كلب(شاتيمه)"
 },
 {
-  "word":"âlï",
+  "word":"alï(عليِ)",
   "translate" : "علي"
 },
 {
-  "word": "dà",
-  "translate": "هذا"
+  "word": "dà(دا)",
+  "translate": "ده/هذا"
 } ,{
-  "word": "pintâ",
-  "translate": " (بنت)أبنت"
+  "word": "pintâ(بنِت)",
+  "translate": "أبنت"
+},
+{
+  "word" : "âbn(اِبن)",
+  "translate": "ابن"
 },
 
 {
-  "word": "âbn",
-  "translate": "ابن"
-},
-{
-  "word": "dâdâ",
+  "word": "dâdâ(دادا)",
   "translate": "أي حاجه مثل ( أبوي بابا باب كوره أمي أبي ماما لعبه ........... )"
 }
   ]
